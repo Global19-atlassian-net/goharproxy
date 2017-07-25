@@ -16,7 +16,7 @@ import (
 	"time"
 
 
-	"github.com/Hellspam/goproxy"
+	"github.com/quantum/goproxy"
 	"github.com/Hellspam/goproxy/transport"
 
 )
