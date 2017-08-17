@@ -14,11 +14,8 @@ import (
 	"bytes"
 	"io/ioutil"
 	"time"
-
-
 	"github.com/quantum/goproxy"
-	"github.com/Hellspam/goproxy/transport"
-
+	"github.com/quantum/goproxy/transport"
 )
 
 // HarProxy
